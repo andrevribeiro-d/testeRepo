@@ -3,12 +3,22 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-04T16:51:50.7132059+01:00"
+    created: "2022-04-04T17:13:10.1558952+01:00"
     description: A Helm chart for Kubernetes
-    digest: e1688e993bfbbfa9c4e0154d92ead728e4e9b1a0809ce5a8ee30572c6fa156b4
+    digest: 4f2f2d2e886adfc7ab5ae8565eec2930d0537766ff900bff4e41421c57c293b2
+    name: helm-chart-test
+    type: application
+    urls:
+    - https://andrevribeiro-d.github.io/testeRepo/helm-chart-test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-04T17:13:10.1548953+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 33e85f766d97eb6cff483ffb0afca757d2dc57602751f5d142b90e2b80f2be09
     name: helm-chart-test
     type: application
     urls:
     - https://andrevribeiro-d.github.io/testeRepo/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-04T16:51:50.7116217+01:00"
+generated: "2022-04-04T17:13:10.1538951+01:00"
